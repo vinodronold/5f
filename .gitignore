@@ -1,0 +1,4 @@
+/vendor/*
+/config/recaptcha.php
+/tmp/*
+/logs/*

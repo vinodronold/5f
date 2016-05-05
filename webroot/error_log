@@ -1,0 +1,7 @@
+[26-Apr-2016 02:52:37 Etc/GMT] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home/fivefdd4/public_html/vendor/cakephp/chronos/src/Chronos.php on line 50
+[26-Apr-2016 03:08:53 Etc/GMT] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home/fivefdd4/public_html/vendor/cakephp/chronos/src/Chronos.php on line 50
+[26-Apr-2016 03:09:38 Etc/GMT] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home/fivefdd4/public_html/vendor/cakephp/chronos/src/Chronos.php on line 50
+[26-Apr-2016 03:09:50 Etc/GMT] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home/fivefdd4/public_html/vendor/cakephp/chronos/src/Chronos.php on line 50
+[26-Apr-2016 03:25:13 Etc/GMT] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home/fivefdd4/public_html/vendor/cakephp/chronos/src/Chronos.php on line 50
+[26-Apr-2016 03:25:55 Etc/GMT] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/fivefdd4/public_html/config/bootstrap.php on line 38
+[26-Apr-2016 03:30:11 Etc/GMT] PHP Fatal error:  You must enable the intl extension to use CakePHP. in /home/fivefdd4/public_html/config/bootstrap.php on line 38
